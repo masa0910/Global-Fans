@@ -1,0 +1,16 @@
+node_modules/
+platforms/
+plugins/
+.nyc_output/
+coverage/
+npm-debug.log
+.DS_Store
+.tmp
+serve/
+prepare/
+platforms/
+package-lock.json
+.node-version
+
+www/js/index.js
+www/index.html
